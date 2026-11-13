@@ -1,0 +1,3 @@
+# Optional: regenerate and render the academic PDF report.
+reportlab>=4,<6
+pymupdf>=1.24,<3

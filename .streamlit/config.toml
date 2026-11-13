@@ -1,0 +1,4 @@
+[server]
+# Avoid inspecting Transformers' lazy optional vision modules during file watching.
+# Restart Streamlit after editing source files; normal UI interactions still rerun.
+fileWatcherType = "none"
